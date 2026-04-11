@@ -1,148 +1,147 @@
 <div align="center">
 
-```
-██╗  ██╗██╗   ██╗ ██████╗  ██████╗
-██║  ██║╚██╗ ██╔╝██╔════╝ ██╔═══██╗
-███████║ ╚████╔╝ ██║  ███╗██║   ██║
-██╔══██║  ╚██╔╝  ██║   ██║██║   ██║
-██║  ██║   ██║   ╚██████╔╝╚██████╔╝
-╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a1628,0f2044,1a3a6b,2563eb&height=180&section=header&text=Hygo&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Discord%20Bot%20Developer&descAlignY=65&descSize=18&descColor=60a5fa&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=Discord+Bot+Developer;Automation+%26+Backend+Systems;Building+bots+that+actually+scale)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F1C&height=3&section=header"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=480&lines=Python+%2F+FastAPI+%2F+discord.py;Automação+real+e+performance;Bots+construídos+do+zero;Sistemas+que+escalam+de+verdade)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-## `$ whoami`
+## ◈ whoami
 
 ```python
 class Hygo:
     role     = "Discord Bot Developer"
-    focus    = ["Automação real", "Performance", "Escalabilidade"]
-    building = "Bots que resolvem problemas de verdade"
+    focus    = ["Automação", "Performance", "Escalabilidade"]
+    building = "Bots que resolvem problemas reais"
+    location = "Brasil 🇧🇷"
     contact  = {
-        "discord": "paradoxo",
-        "email":   "hygodqs@gmail.com",
-        "site":    "https://hygo-psi.vercel.app/"
+        "discord" : "paradoxo",
+        "email"   : "hygodqs@gmail.com",
+        "portfolio": "hygo-psi.vercel.app"
     }
 ```
 
-> Cada sistema é construído do zero — pensado para crescer e resolver problemas reais dentro de comunidades.
+> Cada sistema é construído do zero — pensado para crescer e resolver problemas reais dentro de comunidades Discord.
+
+<br/>
 
 ---
 
-## `$ tech --stack`
+## ◈ Stack
 
 <div align="center">
 
-| Linguagem & Runtime | Frameworks & APIs | Bancos de Dados | Infra |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-0A0F1C?style=flat-square&logo=python&logoColor=3B82F6) | ![FastAPI](https://img.shields.io/badge/FastAPI-0A0F1C?style=flat-square&logo=fastapi&logoColor=3B82F6) | ![MongoDB](https://img.shields.io/badge/MongoDB-0A0F1C?style=flat-square&logo=mongodb&logoColor=3B82F6) | ![Linux](https://img.shields.io/badge/Linux-0A0F1C?style=flat-square&logo=linux&logoColor=3B82F6) |
-| | ![discord.py](https://img.shields.io/badge/discord.py-0A0F1C?style=flat-square&logo=discord&logoColor=3B82F6) | ![MySQL](https://img.shields.io/badge/MySQL-0A0F1C?style=flat-square&logo=mysql&logoColor=3B82F6) | ![Redis](https://img.shields.io/badge/Redis-0A0F1C?style=flat-square&logo=redis&logoColor=3B82F6) |
-| | | | ![Git](https://img.shields.io/badge/Git-0A0F1C?style=flat-square&logo=git&logoColor=3B82F6) |
+![Python](https://img.shields.io/badge/Python-0d1b2e?style=for-the-badge&logo=python&logoColor=60a5fa)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1b2e?style=for-the-badge&logo=fastapi&logoColor=60a5fa)
+![discord.py](https://img.shields.io/badge/discord.py-0d1b2e?style=for-the-badge&logo=discord&logoColor=60a5fa)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1b2e?style=for-the-badge&logo=mongodb&logoColor=60a5fa)
+![MySQL](https://img.shields.io/badge/MySQL-0d1b2e?style=for-the-badge&logo=mysql&logoColor=60a5fa)
+![Redis](https://img.shields.io/badge/Redis-0d1b2e?style=for-the-badge&logo=redis&logoColor=60a5fa)
+![Linux](https://img.shields.io/badge/Linux-0d1b2e?style=for-the-badge&logo=linux&logoColor=60a5fa)
+![Git](https://img.shields.io/badge/Git-0d1b2e?style=for-the-badge&logo=git&logoColor=60a5fa)
 
 </div>
 
----
-
-## `$ ls ./projects`
-
-<details>
-<summary><b>🛡️ Moderação & Segurança</b></summary>
-
-```
-├── anti_raid.py         # Detecção e lockdown automático de raids
-├── anti_spam.py         # Rate limiting inteligente por canal/usuário
-├── smart_logs.py        # Logs estruturados com contexto completo
-└── automod_rules.py     # Regras configuráveis por servidor
-```
-
-Sistema de moderação com **detecção proativa** — age antes que o problema escale.
-
-</details>
-
-<details>
-<summary><b>🎫 Tickets Automatizados</b></summary>
-
-```
-├── ticket_core.py       # Criação, roteamento e fechamento automático
-├── transcript.py        # Histórico exportável de conversas
-├── sla_monitor.py       # Alertas de SLA para equipe de suporte
-└── panel_builder.py     # Painéis visuais configuráveis
-```
-
-Do ticket aberto ao fechado — **zero intervenção manual** no fluxo padrão.
-
-</details>
-
-<details>
-<summary><b>💰 Economia & Gamificação</b></summary>
-
-```
-├── economy_core.py      # Banco, saldo, transferências
-├── shop.py              # Loja com itens, roles e recompensas
-├── leaderboard.py       # Rankings globais e por servidor
-└── xp_system.py         # Experiência por atividade com level-up
-```
-
-Sistema completo com **transações seguras**, anti-exploits e cache Redis.
-
-</details>
-
-<details>
-<summary><b>🎭 Auto Roles</b></summary>
-
-```
-├── event_roles.py       # Roles baseados em eventos do servidor
-├── level_roles.py       # Progressão automática por nível de XP
-├── reaction_roles.py    # Painéis de self-assign
-└── boost_roles.py       # Recompensas para boosters
-```
-
-Automação de roles com **lógica condicional** — reage a qualquer evento do servidor.
-
-</details>
+<br/>
 
 ---
 
-## `$ git log --stats`
+## ◈ O que eu construo
+
+<br/>
+
+**`🛡️ Moderação & Segurança`**
+
+```
+├── anti_raid.py         — detecção e lockdown automático de raids
+├── anti_spam.py         — rate limiting inteligente por canal/usuário
+├── smart_logs.py        — logs estruturados com contexto completo
+└── automod_rules.py     — regras configuráveis por servidor
+```
+
+<br/>
+
+**`🎫 Tickets Automatizados`**
+
+```
+├── ticket_core.py       — criação, roteamento e fechamento automático
+├── transcript.py        — histórico exportável de conversas
+├── sla_monitor.py       — alertas de SLA para equipe de suporte
+└── panel_builder.py     — painéis visuais configuráveis
+```
+
+<br/>
+
+**`💰 Economia & Gamificação`**
+
+```
+├── economy_core.py      — banco, saldo e transferências seguras
+├── shop.py              — loja com itens, roles e recompensas
+├── leaderboard.py       — rankings globais e por servidor
+└── xp_system.py         — sistema de XP com level-up automático
+```
+
+<br/>
+
+**`🎭 Auto Roles`**
+
+```
+├── event_roles.py       — roles baseados em eventos do servidor
+├── level_roles.py       — progressão automática por nível de XP
+├── reaction_roles.py    — painéis de self-assign
+└── boost_roles.py       — recompensas automáticas para boosters
+```
+
+<br/>
+
+---
+
+## ◈ GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hygo2025&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0F1C&title_color=3B82F6&icon_color=3B82F6&text_color=94a3b8&ring_color=3B82F6" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygo2025&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0A0F1C&title_color=3B82F6&text_color=94a3b8&langs_count=5" />
+<img src="https://github-readme-stats.vercel.app/api?username=hygo2025&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=8b9dc3&rank_icon=github&custom_title=Stats" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygo2025&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=8b9dc3&langs_count=6" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hygo2025&theme=midnight-purple&hide_border=true&background=0A0F1C&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+<img src="https://streak-stats.demolab.com?user=hygo2025&theme=dark&hide_border=true&background=0d1117&ring=60a5fa&fire=2563eb&currStreakLabel=60a5fa&sideLabels=8b9dc3&dates=8b9dc3&stroke=1a3a6b" width="60%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## `$ ./contact.sh`
+## ◈ Contato
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hygo--psi.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0F1C)](https://hygo-psi.vercel.app/)
-[![Discord](https://img.shields.io/badge/Discord-paradoxo-3B82F6?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0F1C)](https://discord.com/users/paradoxo)
-[![Email](https://img.shields.io/badge/Email-hygodqs@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1C)](mailto:hygodqs@gmail.com)
+[![Discord](https://img.shields.io/badge/paradoxo-0d1b2e?style=for-the-badge&logo=discord&logoColor=60a5fa)](https://discord.com/users/paradoxo)
+&nbsp;
+[![Email](https://img.shields.io/badge/hygodqs%40gmail.com-0d1b2e?style=for-the-badge&logo=gmail&logoColor=60a5fa)](mailto:hygodqs@gmail.com)
+&nbsp;
+[![Site](https://img.shields.io/badge/hygo--psi.vercel.app-0d1b2e?style=for-the-badge&logo=vercel&logoColor=60a5fa)](https://hygo-psi.vercel.app/)
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-<sub>Construído com lógica. Mantido com obsessão.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb,1a3a6b,0f2044,0a1628,0d1117&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F1C&height=100&section=footer"/>
+<sub><sup>Construído com lógica. Mantido com obsessão.</sup></sub>
 
 </div>
