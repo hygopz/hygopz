@@ -56,15 +56,29 @@ class Hygo:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hygopz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=8b9dc3&rank_icon=github&custom_title=Stats" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygopz&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=8b9dc3&langs_count=6" height="160"/>
+<a href="https://github.com/hygopz">
+  <img src="https://streak-stats.demolab.com?user=hygopz&theme=dark&hide_border=true&background=0d1117&ring=60a5fa&fire=2563eb&currStreakLabel=60a5fa&sideLabels=8b9dc3&dates=8b9dc3&stroke=1a3a6b&card_width=700" width="70%"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hygopz&theme=dark&hide_border=true&background=0d1117&ring=60a5fa&fire=2563eb&currStreakLabel=60a5fa&sideLabels=8b9dc3&dates=8b9dc3&stroke=1a3a6b" width="60%"/>
+<a href="https://github.com/hygopz">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hygopz&theme=github_dark" width="70%"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/hygopz">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hygopz&theme=github_dark" height="140"/>
+</a>
+&nbsp;
+<a href="https://github.com/hygopz">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hygopz&theme=github_dark" height="140"/>
+</a>
 
 </div>
 
