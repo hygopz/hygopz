@@ -52,56 +52,6 @@ class Hygo:
 
 ---
 
-## ◈ O que eu construo
-
-<br/>
-
-**`🛡️ Moderação & Segurança`**
-
-```
-├── anti_raid.py         — detecção e lockdown automático de raids
-├── anti_spam.py         — rate limiting inteligente por canal/usuário
-├── smart_logs.py        — logs estruturados com contexto completo
-└── automod_rules.py     — regras configuráveis por servidor
-```
-
-<br/>
-
-**`🎫 Tickets Automatizados`**
-
-```
-├── ticket_core.py       — criação, roteamento e fechamento automático
-├── transcript.py        — histórico exportável de conversas
-├── sla_monitor.py       — alertas de SLA para equipe de suporte
-└── panel_builder.py     — painéis visuais configuráveis
-```
-
-<br/>
-
-**`💰 Economia & Gamificação`**
-
-```
-├── economy_core.py      — banco, saldo e transferências seguras
-├── shop.py              — loja com itens, roles e recompensas
-├── leaderboard.py       — rankings globais e por servidor
-└── xp_system.py         — sistema de XP com level-up automático
-```
-
-<br/>
-
-**`🎭 Auto Roles`**
-
-```
-├── event_roles.py       — roles baseados em eventos do servidor
-├── level_roles.py       — progressão automática por nível de XP
-├── reaction_roles.py    — painéis de self-assign
-└── boost_roles.py       — recompensas automáticas para boosters
-```
-
-<br/>
-
----
-
 ## ◈ GitHub Stats
 
 <div align="center">
@@ -135,8 +85,6 @@ class Hygo:
 </div>
 
 <br/>
-
----
 
 <div align="center">
 
