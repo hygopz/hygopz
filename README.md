@@ -104,6 +104,6 @@ class Hygo:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb,1a3a6b,0f2044,0a1628,0d1117&height=120&section=footer" width="100%"/>
 
-<sub><sup>Construído com lógica. Mantido com obsessão.</sup></sub>
+<sub><sup></sup></sub>
 
 </div>
