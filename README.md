@@ -28,7 +28,7 @@ Tudo é construído do zero — sem templates.
 
 ### Portfólio
 
-https://hygo-psi.vercel.app/
+hygo-psi.vercel.app/
 
 ---
 
