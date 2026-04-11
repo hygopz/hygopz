@@ -1,44 +1,42 @@
 <h1 align="center">Hygo</h1>
 
 <p align="center">
-Desenvolvedor de bots para Discord focado em automação, performance e experiência de comunidade.
+  Developer focused on Discord bots and automation systems
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,mysql,redis,git,linux" />
 </p>
 
 ---
 
-### Sobre mim
+### Sobre
 
-- 16 anos
-- Desenvolvimento de bots personalizados do zero
-- Foco em sistemas reais (moderação, tickets, economia, roles)
-- Código limpo, escalável e otimizado
-
----
-
-### Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
-</p>
+Desenvolvo bots personalizados para Discord, focados em automação, desempenho e experiência de comunidade.
+Tudo é construído do zero — sem templates.
 
 ---
 
 ### Projetos
 
-- Bots de moderação com anti-raid e anti-spam
-- Sistemas de tickets com logs e transcripts
-- Bots de economia com banco, loja e leaderboard
-- Auto roles com lógica baseada em eventos
+* Sistemas de moderação com anti-raid e anti-spam
+* Bots de tickets com organização e logs
+* Economia com banco, loja e leaderboard
+* Sistemas automáticos de cargos e eventos
+
+---
+
+### Portfólio
+
+https://hygo-psi.vercel.app/
 
 ---
 
 ### Contato
 
-- Discord: `paradoxo`
-- Email: hygodqs@gmail.com
+Discord: paradoxo
+Email: [hygodqs@gmail.com](mailto:hygodqs@gmail.com)
+
+---
+
+> build clean. scale fast. 😈
