@@ -23,7 +23,7 @@ class Hygo:
     location  = "Brazil"
 ```
 
-> Systems, automation and software designed to solve real problems with performance and scalability in mind.
+> Systems, automation and software designed to solve real problems with performance and scalability.
 
 ---
 
@@ -31,26 +31,63 @@ class Hygo:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,mysql,redis,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,ts,js&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+<img src="https://img.shields.io/badge/REST%20APIs-0d1b2e?style=for-the-badge&logo=fastapi&logoColor=60a5fa"/>
+<img src="https://img.shields.io/badge/Async%20Systems-0d1b2e?style=for-the-badge&logo=python&logoColor=60a5fa"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Automation-0d1b2e?style=for-the-badge&logo=apache&logoColor=60a5fa"/>
+<img src="https://img.shields.io/badge/System%20Design-0d1b2e?style=for-the-badge&logo=diagram&logoColor=60a5fa"/>
+<img src="https://img.shields.io/badge/Performance-0d1b2e?style=for-the-badge&logo=speedtest&logoColor=60a5fa"/>
+<img src="https://img.shields.io/badge/Scalability-0d1b2e?style=for-the-badge&logo=databricks&logoColor=60a5fa"/>
+<img src="https://img.shields.io/badge/Integrations-0d1b2e?style=for-the-badge&logo=cloudflare&logoColor=60a5fa"/>
 
 </div>
 
 ---
 
-## work
+## projects
 
-* scalable Discord systems and automation
-* high-performance APIs with FastAPI
-* backend architecture for real-world usage
-* integrations between platforms and services
+### HPRX — High Performance Resource eXplorer
+
+Modern Linux system monitor focused on performance, real-time metrics and clean UI.
+
+* real-time CPU, RAM and process tracking
+* modular widget system
+* optimized data collection via /proc
+* scalable architecture for future extensions
 
 ---
 
-## focus
+### Automation Systems
 
-* performance and efficiency
+Backend-driven automation tools designed to reduce manual work and scale operations.
+
+* task automation and workflow systems
+* service integrations and APIs
+* scalable bot architectures
+
+---
+
+## architecture mindset
+
 * system design over scripts
-* clean and scalable architecture
+* modular and scalable structures
+* performance-first approach
+* real-world problem solving
 
 ---
 
