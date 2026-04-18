@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=520&lines=Full+Stack+%2F+Automation+Engineer;Building+scalable+systems;High-performance+APIs+and+integrations;Real+automation+%2B+system+design" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=500&lines=Full+Stack+%2F+Automation+Engineer;Building+scalable+systems;High-performance+APIs+and+integrations" />
 
 </div>
 
@@ -23,7 +23,7 @@ class Hygo:
     location  = "Brazil"
 ```
 
-> Systems, automation and software designed to solve real problems with performance and scalability.
+> Systems and automation designed to solve real problems with performance and scalability.
 
 ---
 
@@ -33,52 +33,19 @@ class Hygo:
 
 <img src="https://skillicons.dev/icons?i=python,nodejs,ts,js&theme=dark" />
 
-<br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
-<img src="https://img.shields.io/badge/REST%20APIs-0d1b2e?style=for-the-badge&logo=fastapi&logoColor=60a5fa"/>
-<img src="https://img.shields.io/badge/Async%20Systems-0d1b2e?style=for-the-badge&logo=python&logoColor=60a5fa"/>
+<img src="https://skillicons.dev/icons?i=fastapi,express&theme=dark" />
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Automation-0d1b2e?style=for-the-badge&logo=apache&logoColor=60a5fa"/>
-<img src="https://img.shields.io/badge/System%20Design-0d1b2e?style=for-the-badge&logo=diagram&logoColor=60a5fa"/>
-<img src="https://img.shields.io/badge/Performance-0d1b2e?style=for-the-badge&logo=speedtest&logoColor=60a5fa"/>
-<img src="https://img.shields.io/badge/Scalability-0d1b2e?style=for-the-badge&logo=databricks&logoColor=60a5fa"/>
-<img src="https://img.shields.io/badge/Integrations-0d1b2e?style=for-the-badge&logo=cloudflare&logoColor=60a5fa"/>
-
 </div>
-
----
-
-## projects
-
-### HPRX — High Performance Resource eXplorer
-
-Modern Linux system monitor focused on performance, real-time metrics and clean UI.
-
-* real-time CPU, RAM and process tracking
-* modular widget system
-* optimized data collection via /proc
-* scalable architecture for future extensions
-
----
-
-### Automation Systems
-
-Backend-driven automation tools designed to reduce manual work and scale operations.
-
-* task automation and workflow systems
-* service integrations and APIs
-* scalable bot architectures
 
 ---
 
