@@ -76,8 +76,8 @@ class Hygo:
 
 <div align="center">
 
-<a href="https://discord.com/users/paradoxo">
-<img src="https://img.shields.io/badge/discord-paradoxo-0d1b2e?style=for-the-badge&logo=discord&logoColor=60a5fa"/>
+<a href="https://discord.com/users/1w4x">
+<img src="https://img.shields.io/badge/discord-1w4x-0d1b2e?style=for-the-badge&logo=discord&logoColor=60a5fa"/>
 </a>
 
 <a href="mailto:hygodqs@gmail.com">
